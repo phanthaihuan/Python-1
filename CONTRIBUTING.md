@@ -115,7 +115,7 @@ We want your work to be readable by others; therefore, we encourage you to note 
   input = eval(input("Enter your input: "))
   ```
 
-  However, if your code uses __input()__ then we encourage you to gracefully deal with leading and trailing whitespace in user input by adding __.strip()__ as in:
+  huan However, if your code uses __input()__ then we encourage you to gracefully deal with leading and trailing whitespace in user input by adding __.strip()__ as in:
 
   ```python
   starting_value = int(input("Please enter a starting value: ").strip())
